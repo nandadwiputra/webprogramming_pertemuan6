@@ -1,11 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-	"http://www.w3.org/TR/html4/loose.dtd">
-	
-<html lang="en">
-	<head>
-		<title>unitled</title>
-	</head>
-	<body>
+<?php require_once("../include/functions.php");?>
+<?php include("../include/layouts/header.php");?>
 	<div id="main">
 	<div id="navigation">
 		&nbsp;
@@ -20,6 +14,4 @@
 		</ul>
 	</div>
 	</div>
-	<div id="footer">Copyright 20xx, Widget Corp</div>
-	</body>
-</html>
+<?php include("../include/layouts/footer.php");?>
